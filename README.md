@@ -8,7 +8,7 @@
 
 ✨ sql: Contains SQL scripts for database creation, querying, and analysis.
 
-✨ dat: Placeholder for sample data or instructions on obtaining the music database.
+✨ data: Placeholder for sample data or instructions on obtaining the music database.
 
 ✨ results: Store any result files, charts, or visualizations generated from the analysis.
 
