@@ -6,11 +6,11 @@
 
 ➡️ Project Structure
 
-✨ sql/`**: Contains SQL scripts for database creation, querying, and analysis.
+✨ sql: Contains SQL scripts for database creation, querying, and analysis.
 
-✨ data/`**: Placeholder for sample data or instructions on obtaining the music database.
+✨ dat: Placeholder for sample data or instructions on obtaining the music database.
 
-✨ results/`**: Store any result files, charts, or visualizations generated from the analysis.
+✨ results: Store any result files, charts, or visualizations generated from the analysis.
 
 ➡️ Database Schema
 
